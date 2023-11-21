@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "jiahao19971",
+  "repo": "container--kdbwhk",
+  "name": "jiahao19971",
+  "email": "lonoise62@gmail.com",
+}
